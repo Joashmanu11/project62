@@ -1,0 +1,57 @@
+.links {
+    float: left;
+    color: fuchsia;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: yellowtail;
+    font-size: 20px
+}
+.menu {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+   
+}
+img{
+    padding-left: 450px;
+    padding-top: 300px;
+    width: 600px;
+    height;500px;
+}
+.img2{
+    width: 350px;
+    height: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:50px;
+    padding-right: 35px;
+}
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 350px;
+       }
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+.img-responsive{
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 80px;
+}
+
+
